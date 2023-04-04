@@ -1,0 +1,14 @@
+6. Amazon DynamoDB
+https://aws.amazon.com/dynamodb/
+
+Open-source or commercial? 
+- Commercial 
+
+The data mode
+- NoSQL database 
+
+The hosting model 
+- Cloud service through AWS
+
+How Java or Python access it 
+- Amazon Web Services SDKs 

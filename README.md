@@ -4,12 +4,12 @@
 
 **ObjectStore**, *ObjectStore DB* :objectstore.md
 
-**InterSystems Cache** , *InterSystems Cache MD* : cache.md 
+**InterSystems Cache** , *InterSystems Cache DB* : cache.md 
 
-**Perst** , *Perst MD* : perst.md
+**Perst** , *Perst DB* : perst.md
 
-**Amazon DynamoDB** , Amazon DynamoDB DB* : amazondynamodb.db
+**Apache Cassandra** , *Apache Cassandra DB* : apache.md
 
-**MarkLogic** , *MarkLogic* : marklogic.db
+**MarkLogic** , *MarkLogic DB* : marklogic.mb
 
-**Voldemort** , *Voldemort DB* : voldemort.db
+**Voldemort** , *Voldemort DB* : voldemort.mb

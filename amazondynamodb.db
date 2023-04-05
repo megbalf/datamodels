@@ -1,5 +1,4 @@
-6. Amazon Dynamo
-https://aws.amazon.com/dynamodb/
+6. Amazo
 
 Open-source or commercial? 
 - Commercial 
@@ -11,4 +10,4 @@ The hosting model
 - Cloud service through AWS
 
 How Java or Python access it 
-- Amazon Web Services SDKs
+-  Web Services SDKs
